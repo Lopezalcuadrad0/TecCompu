@@ -4,7 +4,7 @@ Repo para publicar el trabajo final de la asignatura de Tecnología de Computado
 
 # OBJETIVO
 
-El objetivo del trabajo es diseñar un sistema de control para una máquina expendedora de bebidas que vende cada lata de refresco a 2€. La máquina acepta monedas de 1€ y 2€, así como billetes de 5€, devolviendo el cambio cuando se introduce una cantidad superior al coste de la lata. También se ha implementado una funcionalidad para cancelar la compra y recuperar el dinero ingresado mediante una señal de reinicio (RESET).
+El objetivo del trabajo es diseñar un sistema de control para una máquina expendedora de bebidas que vende cada lata de refresco a 2€. La máquina acepta monedas de 1€ , 2€ y billetes de 5€, devolviendo el cambio cuando se introduce una cantidad superior al coste de la lata. También se ha implementado una funcionalidad para cancelar la compra y recuperar el dinero ingresado mediante una señal de reinicio (RESET).
 
 # PARTES
 
