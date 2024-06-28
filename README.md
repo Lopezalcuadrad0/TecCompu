@@ -13,3 +13,8 @@ El proyecto se divide en dos partes:
 2. **Tarea opcional de ampliación**: Sistema de contabilización del inventario restante, activando la señal `EMPTY` cuando se agotan las latas. [Ver detalles](https://lopezalcuadrado.gitbook.io/teccompu/amplicion)
 
 Para más detalles sobre la implementación y simulación, consulta el [GitBook asociado a este proyecto](https://lopezalcuadrado.gitbook.io/teccompu/amplicion)
+
+---
+
+**Autor**: Guillermo López  
+**Fecha de finalización**: 27 de junio (Versión Inicial), 29 de junio (Versión Ampliada)
