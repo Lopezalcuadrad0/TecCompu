@@ -9,8 +9,8 @@ El objetivo del trabajo es diseñar un sistema de control para una máquina expe
 # PARTES
 
 El proyecto se divide en dos partes:
-1. **Fase 1**: Diseño básico sin gestión de inventario, asumiendo que la máquina siempre tiene latas disponibles. [Ver detalles](https://lopezalcuadrado.gitbook.io/teccompu/trabajo-sin-ampliar)
-2. **Tarea opcional de ampliación**: Sistema de contabilización del inventario restante, activando la señal `EMPTY` cuando se agotan las latas. [Ver detalles](https://lopezalcuadrado.gitbook.io/teccompu/amplicion)
+1. [**Fase 1**](https://github.com/Lopezalcuadrad0/TecCompu/tree/main/Parte1): Diseño básico sin gestión de inventario, asumiendo que la máquina siempre tiene latas disponibles. [Ver detalles](https://lopezalcuadrado.gitbook.io/teccompu/trabajo-sin-ampliar)
+1. [**Tarea ampliada**](https://github.com/Lopezalcuadrad0/TecCompu/tree/main/Ampliacion):: Sistema de contabilización del inventario restante, activando la señal `EMPTY` cuando se agotan las latas. [Ver detalles](https://lopezalcuadrado.gitbook.io/teccompu/amplicion)
 
 Para más detalles sobre la implementación y simulación, consulta el [GitBook asociado a este proyecto](https://lopezalcuadrado.gitbook.io/teccompu/amplicion)
 
